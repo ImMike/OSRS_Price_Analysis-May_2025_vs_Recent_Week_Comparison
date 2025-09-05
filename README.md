@@ -119,6 +119,22 @@ The analysis generates several files in `data/exports/`:
 - **Quality Assessment** - Market stability visualization
 - **Method Breakdown** - Calculation method distribution
 
+## 📸 Example Output
+
+### **Interactive Data Table**
+Professional sortable table with quick-sort buttons and comprehensive metrics:
+
+![Interactive Data Table](https://github.com/ImMike/OSRS_Price_Analysis-May_2025_vs_Recent_Week_Comparison/assets/example-table.png)
+
+*Features: Click column headers to sort, search filtering, pagination, and color-coded recommendations*
+
+### **Liquidity vs Opportunity Analysis**
+Scatter plot showing the relationship between item liquidity and investment opportunity:
+
+![Liquidity vs Opportunity Chart](https://github.com/ImMike/OSRS_Price_Analysis-May_2025_vs_Recent_Week_Comparison/assets/example-scatter.png)
+
+*Color coding: Green = Strong Buy, Yellow = Consider, Red = Avoid. Larger dots = higher quality scores*
+
 ## 🎛️ Configuration
 
 Edit `config/settings.py` to customize:
