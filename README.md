@@ -124,14 +124,14 @@ The analysis generates several files in `data/exports/`:
 ### **Interactive Data Table**
 Professional sortable table with quick-sort buttons and comprehensive metrics:
 
-![Interactive Data Table](https://github.com/ImMike/OSRS_Price_Analysis-May_2025_vs_Recent_Week_Comparison/assets/example-table.png)
+![Interactive Data Table](https://i.imgur.com/ZgOd3SO.png)
 
 *Features: Click column headers to sort, search filtering, pagination, and color-coded recommendations*
 
 ### **Liquidity vs Opportunity Analysis**
 Scatter plot showing the relationship between item liquidity and investment opportunity:
 
-![Liquidity vs Opportunity Chart](https://github.com/ImMike/OSRS_Price_Analysis-May_2025_vs_Recent_Week_Comparison/assets/example-scatter.png)
+![Liquidity vs Opportunity Chart](https://i.imgur.com/iue7EXx.png)
 
 *Color coding: Green = Strong Buy, Yellow = Consider, Red = Avoid. Larger dots = higher quality scores*
 
